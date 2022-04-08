@@ -1,0 +1,17 @@
+site_name: Mishuks Tech Writing docs
+site_url: http://mishuks.ru/
+
+nav:
+    - Home: en/index.md
+    - Aviasales Experience: en/about.md
+    - Docs: en/processes.md
+
+theme: material
+extra:
+  alternate:
+    - name: Russian
+      link: /ru/ 
+      lang: ru
+    - name: English
+      link: TW-docs\TW-docs-en
+      lang: en
