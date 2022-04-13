@@ -6,15 +6,15 @@ My name is [Misha Ryzhov](https://www.linkedin.com/in/mishuks/) — I am a techn
 Worked as a technical writer in [Aviasales.ru](https://www.aviasales.ru). Prior to that, he worked for almost two years in Rocketbank as a senior customer support officer. Even then, I liked to explain complex concepts in simple language and began my journey in creating and maintaining documentation.
 
 # Technologies, tools, and languages:
-- Markup and Programming Languages — HTML, CSS, Markdown, JSON, YAML, JavaScript, Java Libraries, Frameworks, and other Web Dev Tools.
-- IDEs and Editors — IntelliJ, Visual Studio Code.
-- CMS — Confluence, WordPress.
-- CRM — Zendesk, Usedesk.
-- Repos — Git, GitHub.
-- Graphics — Photoshop, Blender, Draw.io, Miro.
-- Communication — Microsoft Office, Outlook, Slack, Zoom, Skype.
-- Operating Systems — Windows, Linux.
-- Human Languages — English (Fluent), Russian (native).
+- **Markup and Programming Languages** — HTML, CSS, Markdown, JSON, YAML, JavaScript, Java Libraries, Frameworks, and other Web Dev Tools.
+- **IDEs and Editors** — IntelliJ, Visual Studio Code.
+- **CMS** — Confluence, WordPress.
+- **CRM** — Zendesk, Usedesk.
+- **Repos** — Git, GitHub.
+- **Graphics** — Photoshop, Blender, Draw.io, Miro.
+- **Communication** — Microsoft Office, Outlook, Slack, Zoom, Skype.
+- **Operating Systems** — Windows, Linux.
+- **Human Languages** — English (Fluent), Russian (native).
 
 # More details
 
