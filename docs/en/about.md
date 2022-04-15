@@ -2,7 +2,7 @@
 
 **Full-time**: Apr 2021 - Apr 2022, 1 yr 1 mo
 
-**What i've done:**: 
+**What i've done:**
 
 - Researched, wrote, reviewed, and maintained technical and user documentation.
 - Delivered knowledge base articles, user guides, manuals, procedures, technical web content, and internal policy documentation.
